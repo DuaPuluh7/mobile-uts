@@ -1,6 +1,7 @@
 # a
-
-A new Flutter project.
+Apabila Mengalami Error
+Email : bntr@gmail.com
+Password : 123456
 
 ## Getting Started
 
